@@ -8,7 +8,7 @@ def rencontre (nombreEquipe):
     nbEquipe = nombreEquipe
     
     i=0
-    j=1
+    j=2
     
     
     while j< nbEquipe:
